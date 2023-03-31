@@ -1,12 +1,7 @@
-## Hi there 👋
+![image](https://user-images.githubusercontent.com/61020751/229223380-fa714bcb-ed77-458b-b0bb-e0403913be3d.png)
+## :rocket: Équipe de Développement de WesterLife
 
-<!--
+> **Mais qu'est-ce que WesterLife ?**
+> Voici quelques réponses ! WesterLife est un serveur moderne rôle-play modé en 1.12.2. Le but de ce serveur est de donner une expérience de jeu avec une bonne ambiance, > réaliste et rôle-play. C'est ce défi difficile, mais pas impossible que nous avons fait le choix de relever, pour vous !
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+WesterLife est composé d'une **équipe de développement** gérée par [gabidut76](https://github.com/gabidut).
